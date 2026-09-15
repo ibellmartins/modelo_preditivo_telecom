@@ -10,6 +10,8 @@ Aplicação de conceitos e técnicas de Inteligência Artificial para mitigar a 
 
 Utilizando a opção **Framework** (Python + *scikit-learn*), o projeto visa desenvolver um modelo de classificação capaz de prever matematicamente a probabilidade de um cliente cancelar seus serviços de telecomunicações. 
 
+Link base de dados utilizada: https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download / https://community.ibm.com/community/user/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
+
 ## Tecnologias Utilizadas
 * **Linguagem:** Python
 * **Manipulação de Dados:** Pandas, NumPy
