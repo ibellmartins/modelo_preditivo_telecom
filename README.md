@@ -1,6 +1,6 @@
 # Previsão de Churn em Telecomunicações com Machine Learning
 
-Projeto desenvolvido no contexto da disciplina de Inteligência Artificial da Faculdade de Computação e Informática (FCI) da Universidade Presbiteriana Mackenzie, no curso de Sistemas de Informação. 
+Projeto desenvolvido no contexto da disciplina de Inteligência Artificial da Faculdade de Computação e Informática (FCI) da Universidade Presbiteriana Mackenzie, no curso de Sistemas de Informação orientado pelo professor Leandro Zerbinatti. 
 
 ## Integrantes
 
