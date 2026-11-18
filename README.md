@@ -2,6 +2,10 @@
 
 Projeto desenvolvido no contexto da disciplina de Inteligência Artificial da Faculdade de Computação e Informática (FCI) da Universidade Presbiteriana Mackenzie, no curso de Sistemas de Informação orientado pelo professor Leandro Zerbinatti. 
 
+## Link para apresentação do vídeo
+
+https://youtu.be/MEO55LFLRKQ
+
 ## Integrantes
 
 - Guilherme Soares — RA: 10428380
